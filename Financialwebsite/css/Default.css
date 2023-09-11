@@ -32,12 +32,14 @@
 	margin: 10px auto 10px auto;
 	border: 1px solid #0078d5;
 }
-
-.mainfloat{
+.mainfloatfather{
 	width: 1000px;
-	margin: 10px auto 10px auto;
+	margin: 0px auto 0px auto;
+}
+.mainfloat{
+
 	position: fixed;
-	
+	background-color: white;
 }
 .mainpic{
 	width: 1000px;
